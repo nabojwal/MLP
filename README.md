@@ -12,6 +12,7 @@ Link to W&B Report:
 ## Repository
 
 Link to GitHub Repository:  
-[View the source code](https://github.com/your-username/your-repo-name)
+[https://github.com/nabojwal/DA6401_Assignment1](https://github.com/nabojwal/DA6401_Assignment1)
 
 ## Thank You!
+
